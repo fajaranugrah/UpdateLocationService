@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "193411003168",
+    "firebase_url": "https://new-apps-ddb47.firebaseio.com",
+    "project_id": "new-apps-ddb47",
+    "storage_bucket": "new-apps-ddb47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193411003168:android:01b44f8ca2751eaa",
+        "android_client_info": {
+          "package_name": "com.example.fajarramadhan.newappstesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193411003168-0sjh8k47nfe1nlggdahlvk2ss6dqjlbt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fajarramadhan.newappstesting",
+            "certificate_hash": "a03013a6582009139c21b6b9e815bf6b098ba4d2"
+          }
+        },
+        {
+          "client_id": "193411003168-everm3p735ifcv9o0j5voqbtofs8ombi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fajarramadhan.newappstesting",
+            "certificate_hash": "f3d7ba3a21445b885c0d015901d4c793fd938a45"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZq6c7YBFcX2vK-LpH6vokJjGbbo51rdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193411003168-tr6f09j9n2uu1qvfus3quc4ct6hdstoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193411003168:android:ad765db2fd6e969d",
+        "android_client_info": {
+          "package_name": "com.example.fajarramadhan.updatelocationservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193411003168-72lokpq46cbf0scf8tv86mfr3sh1lfjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fajarramadhan.updatelocationservice",
+            "certificate_hash": "f3d7ba3a21445b885c0d015901d4c793fd938a45"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZq6c7YBFcX2vK-LpH6vokJjGbbo51rdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193411003168-tr6f09j9n2uu1qvfus3quc4ct6hdstoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
